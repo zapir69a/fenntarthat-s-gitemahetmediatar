@@ -7,10 +7,24 @@ h1 {
 
 .col-md-4 {
     margin-bottom: 20px;
-    
+    margin-top: 50px;
 }
 
 .keret {
     background-color: green;
     border: 10px black;
+}
+
+img {
+    margin-top: 100px;
+}
+
+.video {
+    margin: 15px 15px 15px 15px;
+    border: 10px black solid;
+    border-radius: 20px;
+}
+
+.video-border {
+    margin: auto;
 }
